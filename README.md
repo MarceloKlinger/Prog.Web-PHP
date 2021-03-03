@@ -19,7 +19,7 @@ $ cd Prog.Web-PHP
 
 **Para rodar**
 
-> Iniciar um servidor inbutido PHP
+> Iniciar um servidor imbutido PHP
 
 ```bash
 $  php -S localhost:8000
