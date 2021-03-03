@@ -67,7 +67,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         <textarea class="h-40 w-full border border-gray-400 p-1 rounded-lg outline-none focus:border-blue-400" required name="message">
       </textarea>
       </div>
-      <input class="block w-full bg-green-400 p-4 rounded" type="submit" value="enviar">
+      <button class="block w-full bg-green-400 p-4 rounded" type="submit" value="enviar">ENVIAR</button>
     </form>
   </div>
 </body>
